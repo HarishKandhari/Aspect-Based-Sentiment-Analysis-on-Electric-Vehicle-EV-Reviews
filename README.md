@@ -4,29 +4,25 @@ This project, EV Insight Pro, utilizes advanced Aspect-Based Sentiment Analysis 
 
 # 🧰 Features:
 
-- **LLM-Generated Data:**
-- Uses OpenAI's GPT-3.5 to create synthetic reviews reflecting diverse consumer perspectives.
-
+- **LLM-Generated Data:** Uses OpenAI's GPT-3.5 to create synthetic reviews reflecting diverse consumer perspectives.
 - **Aspect Extraction:** Identifies and categorizes EV-related features (e.g., battery life, charging infrastructure).
-
 - **Sentiment Classification:** Classifies sentiments (positive, neutral, negative) for each aspect using transformer models.
-
 - **Interactive Dashboard:** Provides visual analytics through a Streamlit interface with charts for sentiment distribution and trends.
-
 - **Comprehensive Insights:** Generates detailed explanations for sentiment classification, offering actionable intelligence.
+
 
 
  # 📊 Methodology:
 
-- Data Generation: Synthetic EV reviews generated via OpenAI's GPT-3.5 using custom prompts to cover diverse sentiments and key features.
+- **Data Generation:** Synthetic EV reviews generated via OpenAI's GPT-3.5 using custom prompts to cover diverse sentiments and key features.
 
-- Aspect Extraction: Identifies critical EV-related topics using Hugging Face NLP models.
+- **Aspect Extraction:** Identifies critical EV-related topics using Hugging Face NLP models.
 
-- Sentiment Analysis: Classifies sentiments for each aspect using transformer-based sentiment models.
+- **Sentiment Analysis:** Classifies sentiments for each aspect using transformer-based sentiment models.
 
-- Explanation Generation: Provides natural language summaries explaining sentiment outcomes.
+- **Explanation Generation:** Provides natural language summaries explaining sentiment outcomes.
 
-- Visualization: Displays findings through bar charts, pie charts, and line graphs on a Streamlit dashboard.
+- **Visualization:** Displays findings through bar charts, pie charts, and line graphs on a Streamlit dashboard.
 
 
 # 📌 Key Technologies:
