@@ -15,28 +15,21 @@ This project, EV Insight Pro, utilizes advanced Aspect-Based Sentiment Analysis 
  # 📊 Methodology:
 
 - **Data Generation:** Synthetic EV reviews generated via OpenAI's GPT-3.5 using custom prompts to cover diverse sentiments and key features.
-
 - **Aspect Extraction:** Identifies critical EV-related topics using Hugging Face NLP models.
-
 - **Sentiment Analysis:** Classifies sentiments for each aspect using transformer-based sentiment models.
-
 - **Explanation Generation:** Provides natural language summaries explaining sentiment outcomes.
-
 - **Visualization:** Displays findings through bar charts, pie charts, and line graphs on a Streamlit dashboard.
 
 
 # 📌 Key Technologies:
 
-Large Language Models (LLMs): OpenAI GPT-3.5 for data generation
-NLP Frameworks: Hugging Face Transformers
+**Large Language Models (LLMs):** OpenAI GPT-3.5 for data generation
+**NLP Frameworks:** Hugging Face Transformers
+**Python Ecosystem:** Pandas, NumPy, Scikit-learn
+**Visualization:** Matplotlib, Seaborn
+**Deployment:** Streamlit for interactive dashboards
 
-Python Ecosystem: Pandas, NumPy, Scikit-learn
-
-Visualization: Matplotlib, Seaborn
-
-Deployment: Streamlit for interactive dashboards
-
-📈 Impact:
+# 📈 Impact:
 
 EV Insight Pro empowers stakeholders to monitor customer sentiment in real-time, address critical concerns like charging speed and battery life, and drive improvements in EV technology. The project offers a scalable, AI-driven approach to understanding customer perceptions, aiding in product enhancement and strategic decision-making.
 
