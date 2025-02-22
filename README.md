@@ -23,11 +23,11 @@ This project, EV Insight Pro, utilizes advanced Aspect-Based Sentiment Analysis 
 
 # 📌 Key Technologies:
 
-**Large Language Models (LLMs):** OpenAI GPT-3.5 for data generation
-**NLP Frameworks:** Hugging Face Transformers
-**Python Ecosystem:** Pandas, NumPy, Scikit-learn
-**Visualization:** Matplotlib, Seaborn
-**Deployment:** Streamlit for interactive dashboards
+- **Large Language Models (LLMs):** OpenAI GPT-3.5 for data generation
+- **NLP Frameworks:** Hugging Face Transformers
+- **Python Ecosystem:** Pandas, NumPy, Scikit-learn
+- **Visualization:** Matplotlib, Seaborn
+- **Deployment:** Streamlit for interactive dashboards
 
 # 📈 Impact:
 
